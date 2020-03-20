@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 13.3.1//EN
+N:;;;;
+FN:Coldwell Banker Residential Brokerage
+ORG:Coldwell Banker Residential Brokerage;
+TEL;type=WORK;type=VOICE;type=pref:+1 (617) 969-2447
+item1.ADR;type=WORK;type=pref:;;1261 Centre St;Newton;MA;02459;United States
+item1.X-ABADR:US
+item1.X-APPLE-SUBLOCALITY:Newton Centre
+item1.X-APPLE-SUBADMINISTRATIVEAREA:Middlesex
+item2.URL;type=pref:http://www.newenglandmoves.com
+item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL:https://maps.apple.com/?address=1261%20Centre%20St\,%20Newton\,%20MA%20%2002459\,%20United%20States&auid=11348584317990586681&ll=42.330348\,-71.195081&lsp=9902&q=Coldwell%20Banker%20Residential%20Brokerage&_ext=ChoKBQgEEOIBCgQIBRADCgUIBhCvAQoECAoQABImKUV6Uay1KUVAMa36KMDfzFHAOcNPdwjcKkVAQWmO4KkYzFHAUAQ%3D&t=m
+item3.X-ABLabel:map url
+X-ABShowAs:COMPANY
+END:VCARD
