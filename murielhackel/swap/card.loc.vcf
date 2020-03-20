@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.3//EN
+N:;;;;
+FN:Muriel Hackel
+ORG:Coldwell Banker Residential Brokerage;
+TEL;type=MAIN;type=pref:+1 (617) 969-2447
+item1.ADR;type=WORK;type=pref:;;1261 Centre St;Newton;MA;02459;United States
+item1.X-ABADR:US
+item1.X-APPLE-SUBLOCALITY:Newton Centre
+X-SOCIALPROFILE;type=Yelp;x-displayname=Coldwell Banker Residential Brokerage:http://yelp.com/apple_maps_action?id=tTbvh5HiJqJTvUYIxaCtFA&action=view&language=en-US
+item2.URL;type=pref:https://maps.apple.com/?address=1261%20Centre%20St\,%20Newton\,%20MA%20%2002459\,%20United%20States&auid=11348584317990586681&ll=42.330348\,-71.195081&lsp=9902&q=Coldwell%20Banker%20Residential%20Brokerage&_ext=ChoKBQgEEOIBCgQIBRADCgUIBhCvAQoECAoQABImKUV6Uay1KUVAMa36KMDfzFHAOcNPdwjcKkVAQWmO4KkYzFHAUAQ%3D
+item2.X-ABLabel:Map URL
+item3.URL:http://www.newenglandmoves.com
+item3.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+X-ABUID:81FA0EF8-B832-498A-A04B-2DEF15463A5E:ABPerson
+END:VCARD
