@@ -9,7 +9,7 @@ TEL;type=CELL;type=VOICE:(617) 782-2000
 ADR;type=WORK;type=pref:;;RE Inno Lab\n341 Watertown Street;Newton;MA;02459;United States
 ADR;type=WORK:;;Www/RE\n464 Commonwealth Ave;Boston;MA;02215;United States
 ADR;type=WORK:;;466 Commonwealth Avenue\nUnit 11;Boston;MA;02215;United States
-item1.URL;type=pref:http://swaptd.com/mark
+item1.URL;type=pref:http://swaptd.com/mark/vcard.vcf
 item1.X-ABLabel:_$!<HomePage>!$_
 item2.URL:http://linkedin.com/in/wwwre
 item2.X-ABLabel:LinkedIn
